@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\bin\Debug\netcoreapp3.1\DateOne.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\DateOne\DateOne\obj\Debug\netcoreapp3.1\DateOne.genruntimeconfig.cache
